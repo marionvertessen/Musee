@@ -2,10 +2,10 @@ package Objects;
 
 public class Tableau {
     private int id;
-    private String name;
-    private int date;
-    private String auteur;
-    private String description;
+    public String name;
+    public int date;
+    public String auteur;
+    public String description;
     public int posX;
     public int posY;
 
