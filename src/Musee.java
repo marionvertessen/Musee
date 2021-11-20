@@ -1,5 +1,3 @@
-package Agents;
-
 import Objects.Tableau;
 import Utils.Ontology;
 import Utils.Pos;
